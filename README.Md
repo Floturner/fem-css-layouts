@@ -1,6 +1,6 @@
 # CSS Layouts
 
-Responsive layouts with css grid flexbox.
+Frontend Master's "Practical CSS Layouts" workshop project on creating responsive designs for mobile, tablet, and desktop layouts using CSS Grid and Flexbox.
 
 ## Screenshots
 
